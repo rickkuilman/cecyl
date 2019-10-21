@@ -1,10 +1,10 @@
 # Cecyl
 
-Cecyl (*born blind*) is a script that turns a fresh Ubuntu 18.04 into a complete, robuste and reay to roll development environment tailored to my personal likings.
+Cecyl (*born blind*) is a script that turns a fresh Ubuntu 18.04 into a complete, robust and reay to roll development environment tailored to my personal likings.
 
 ## Installation
 
-Use [git](https://git-scm.com/) to install Cecyl in your home directory
+Use [git](https://git-scm.com/) to install Cecyl in your home directory.
 
 ```bash
 git clone git@github.com:rickkuilman/cecyl.git ~/cecyl
@@ -12,7 +12,7 @@ git clone git@github.com:rickkuilman/cecyl.git ~/cecyl
 
 ## Usage
 
-Simply run 
+Simply run:
 
 ```bash
 sh ~/cecyl/bootstrap.sh
